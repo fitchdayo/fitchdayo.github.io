@@ -7,11 +7,12 @@ var textList = [
   "but i would like to say, i'm very thankful to have met you",
   "you have helped me alot during my dark times with just your va works.. :3",
   "thank you for always making everyone feels safer with your work",
-  "lastly.."
-  "I would like to tell you that.."
-  "I like you."
+  "lastly..",
+  "I would like to tell you that..",
+  "I like you.",
   "would you be okay if I were to ask you out? :3",
-  "you don't have to give me an answer now."
+  "you don't have to give me an answer now.",
+  "hehe"
 ];
 
 var currentIndex = 0;

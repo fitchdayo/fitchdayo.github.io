@@ -1,8 +1,8 @@
 // Define the list of text to cycle through
 var textList = [
   "But before we go on.. Are you really S?",
-  "hontou? hontou hontou??",
-  "okay you can press next hehe :x?"
+  "Really really really?",
+  "Final really?"
 ];
 
 var currentIndex = 0;

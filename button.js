@@ -1,6 +1,6 @@
 // Define the list of text to cycle through
 var textList = [
-  "Are you really really really the person?",
+  "So.. you have been sent here… right?",
   "Serious SERIOUS?",
   "Phew, okay, you can press next?"
 ];
